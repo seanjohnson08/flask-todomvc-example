@@ -1,5 +1,8 @@
 /*global Backbone, jQuery, _, ENTER_KEY */
-var app = app || {};
+import * as Backbone from 'backbone';
+import * as _ from 'underscore';
+
+declare var app: any;
 
 (function ($) {
 	'use strict';
