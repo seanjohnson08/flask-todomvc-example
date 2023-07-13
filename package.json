@@ -1,0 +1,14 @@
+{
+  "name": "flask-todomvc",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://secure.travis-ci.org/kevinbeaty/flask-todomvc.png)](http://travis-ci.org/kevinbeaty/flask-todomvc)",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
